@@ -6,6 +6,7 @@ import java.math.BigDecimal;
 
 @Data
 public class AdDto {
+
     private Integer author;
     private String image;
     private Integer pk;
