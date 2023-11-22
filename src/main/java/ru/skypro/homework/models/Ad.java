@@ -33,7 +33,7 @@ public class Ad {
 
     @ManyToOne(fetch = FetchType.LAZY, optional = false)
     @JoinColumn(name = "user_id", referencedColumnName = "id")
-    private Users user;
+    private User user;
 
     @OneToOne(fetch = FetchType.LAZY, optional = false)
     @JoinColumn(name = "image_id", referencedColumnName = "id")
