@@ -32,6 +32,9 @@
 
 - [Домников Савелий](https://github.com/savely03)<br>
 - [Ширгородский Дмитрий](https://github.com/Jekas213)<br>
+- [Морус Елисей](https://github.com/RempLL)<br>
+- Зинченко Евгений
+- Пустовалов Роман
 
 ---
 
