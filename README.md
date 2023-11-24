@@ -1,4 +1,4 @@
-# Diploma project "java developer course"
+# Diploma project "Java Developer Course"
 
 ## Основной функционал:
 
